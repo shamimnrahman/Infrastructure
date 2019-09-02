@@ -1,0 +1,6 @@
+*.auto.tfvars
+*.terraform
+*.tfstate.d
+terraform.tfvars
+terraform/eks-cluster/.kube
+terraform/eks-cluster/k8s-manifests/rendered/
